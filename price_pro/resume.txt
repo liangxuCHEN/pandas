@@ -1,0 +1,8 @@
+state      type    
+exception  merchant     21
+           worker      228
+none       merchant    133
+           worker      205
+success    merchant    782
+           worker       39
+
